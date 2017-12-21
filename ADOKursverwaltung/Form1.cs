@@ -16,7 +16,7 @@ namespace ADOKursverwaltung
         OleDbConnection con;
         List<Teilnehmer> listTeilnehmerTemp;
         List<Kurs> listKurse;
-
+        //test
         public Form1()
         {
             InitializeComponent();
